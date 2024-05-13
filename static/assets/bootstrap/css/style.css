@@ -1,7 +1,7 @@
 * {
     scroll-behavior: smooth;
     -webkit-touch-callout: none;
-    -webkit-user-select: none;
+   
 }
 
 nav #mainNav a:hover {
